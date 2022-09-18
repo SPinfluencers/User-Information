@@ -8,4 +8,4 @@
 
 4. use details use-params from react-router-dom library to pin specific element
 
-5. Netlify Link - 
+5. Netlify Link - https://lucent-cascaron-bc3598.netlify.app/
