@@ -1,9 +1,21 @@
 .users {
     width: 30%;
-    border: 1px solid black;
+    border: 1px solid none;
     margin: auto;
     padding: 2%;
+    background-color: teal;
+    color: white;
+    justify-content: center;
+    margin-bottom: 10px;
 }
 Link {
     padding: 1%;
+}
+.userdetails {
+    width: 30%;
+    margin: auto;
+    border: 1px solid none;
+    padding: 2%;
+    background-color: teal;
+    color: white;
 }
